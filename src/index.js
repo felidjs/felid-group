@@ -27,7 +27,7 @@ function plugin (felid, options = {}) {
     ...defaultDecoratorKeys,
     ...options.decorator
   }
-  felid.decorate(decoratorKeys.group, group)
+  felid.decorate(decoratorKeys.group, () => group)
 }
 
 module.exports = plugin

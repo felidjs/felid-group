@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/felidjs/felid-group#readme",
   "devDependencies": {
-    "felid": "^0.1.0-alpha.3",
+    "felid": "^0.1.0-alpha.4",
     "injectar": "^1.4.0",
     "jest": "^25.1.0",
     "pre-commit": "^1.2.2",
