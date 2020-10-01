@@ -1,6 +1,9 @@
 # felid-group
 
-[![npm version](https://img.shields.io/npm/v/felid-group.svg)](https://www.npmjs.com/package/felid-group) [![Build Status](https://travis-ci.com/felidjs/felid-group.svg?branch=master)](https://travis-ci.com/felidjs/felid-group) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![npm version](https://img.shields.io/npm/v/felid-group.svg)](https://www.npmjs.com/package/felid-group)
+![Node.js CI](https://github.com/felidjs/felid-group/workflows/Node.js%20CI/badge.svg)
+[![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
+[![codecov](https://codecov.io/gh/felidjs/felid-group/branch/master/graph/badge.svg)](https://codecov.io/gh/felidjs/felid-group)
 
 Add api for grouping routes in [Felid](https://github.com/felidjs/felid).
 
